@@ -5,4 +5,7 @@ Action
 Love
 Sentiment
 
+Psycho
+Thriller
+
 Thankyou
